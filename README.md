@@ -1,2 +1,1 @@
-# first-projectt
-این اولین پروژه من هست که با فریمورک جمگو نوشته ام
+hope you enjoy
